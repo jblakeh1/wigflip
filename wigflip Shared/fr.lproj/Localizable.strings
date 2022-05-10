@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  wigflip
+
+  Created by James B Harris on 7/12/20.
+  
+*/
+
+"Bird" = "Oiseau";
+"Red-winged blackbird" = "Carouge à épaulettes";
+"Black-capped chickadee" = "Mésange à tête noire";
+"Steller’s jay" = "Geai de Steller";
+"Northern cardinal" = "Cardinal rouge";
+"Cowbird" = "Vacher";
+"Common flicker" = "Pic flamboyant";
+"Rufous hummingbird" = "Colibri roux";
+"Monk parakeet" = "Conure veuve";
+"Pine warbler" = "Paruline des pins";
+"Purple finch" = "Roselin pourpré";
+"Scissor-tailed flycatcher" = "Tyran à longue queue";

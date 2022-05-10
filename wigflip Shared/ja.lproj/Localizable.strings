@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  wigflip
+
+  Created by James B Harris on 7/12/20.
+  
+*/
+
+"Bird" = "バード";
+"Red-winged blackbird" = "ハゴロモガラス";
+"Black-capped chickadee" = "アメリカコガラ";
+"Steller’s jay" = "ステラーカケス";
+"Northern cardinal" = "ショウジョウコウカンチョウ";
+"Cowbird" = "カウバード";
+"Common flicker" = "ハシボソキツツキ";
+"Rufous hummingbird" = "ハチドリ";
+"Monk parakeet" = "オキナインコ";
+"Pine warbler" = "マツアメリカムシクイ";
+"Purple finch" = "ムラサキマシコ";
+"Scissor-tailed flycatcher" = "エンビタイランチョウ";
